@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/hanam-teacher/static/css/main.3a22b66b.chunk.css",
+    "main.js": "/hanam-teacher/static/js/main.1d3e9202.chunk.js",
+    "main.js.map": "/hanam-teacher/static/js/main.1d3e9202.chunk.js.map",
+    "runtime-main.js": "/hanam-teacher/static/js/runtime-main.7aee99b6.js",
+    "runtime-main.js.map": "/hanam-teacher/static/js/runtime-main.7aee99b6.js.map",
+    "static/js/2.16433333.chunk.js": "/hanam-teacher/static/js/2.16433333.chunk.js",
+    "static/js/2.16433333.chunk.js.map": "/hanam-teacher/static/js/2.16433333.chunk.js.map",
+    "index.html": "/hanam-teacher/index.html",
+    "precache-manifest.5d2e812e906f2980ee2a75487a7b72a6.js": "/hanam-teacher/precache-manifest.5d2e812e906f2980ee2a75487a7b72a6.js",
+    "service-worker.js": "/hanam-teacher/service-worker.js",
+    "static/css/main.3a22b66b.chunk.css.map": "/hanam-teacher/static/css/main.3a22b66b.chunk.css.map",
+    "static/js/2.16433333.chunk.js.LICENSE.txt": "/hanam-teacher/static/js/2.16433333.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7aee99b6.js",
+    "static/js/2.16433333.chunk.js",
+    "static/css/main.3a22b66b.chunk.css",
+    "static/js/main.1d3e9202.chunk.js"
+  ]
+}
